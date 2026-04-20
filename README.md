@@ -1,2 +1,4 @@
 # Gen-AI--Chatbot-using-Python
-A Gen AI chatbot built using Python and Open AI API that answers user queries
+## 🚀 Live Demo
+
+🔗 https://your-app-name.streamlit.app
